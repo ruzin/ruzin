@@ -1,24 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-![ruzin stats](https://github-readme-stats.vercel.app/api?username=ruzin&show_icons=true&include_all_commits=true&count_private=true&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)
+![GitHub Stats](https://github-readme-stats.vercel.app/api
+?username=ruzin
+&show_icons=true
+&include_all_commits=true
+&hide_rank=true
+&cache_seconds=21600
+&theme=github_dark)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzin&layout=compact&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)](https://github.com/ruzin/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs
+?username=ruzin
+&layout=compact
+&langs_count=8
+&cache_seconds=21600
+&theme=github_dark)
 
----
-
-![GitHub followers](https://img.shields.io/github/followers/ruzin?logo=GitHub&logoColor=ef7c2a)
-
-<!--
-**ruzin/ruzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Followers](https://img.shields.io/github/followers/ruzin?label=Followers&logo=github)
