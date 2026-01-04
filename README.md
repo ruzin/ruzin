@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api
-?username=ruzin
-&show_icons=true
-&include_all_commits=true
-&hide_rank=true
-&cache_seconds=21600
-&theme=github_dark)
+![Ruzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzin&hide=contribs,prs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs
 ?username=ruzin
